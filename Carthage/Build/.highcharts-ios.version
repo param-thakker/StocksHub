@@ -1,0 +1,26 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "v10.0.0",
+  "iOS" : [
+    {
+      "hash" : "1db6e8c2fbb232faca7874789e1775a1331ef012a3a00781e5edfcf722095d3a",
+      "name" : "Highcharts",
+      "container" : "Highcharts.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "75c8218d3155a956c0ed061bff4cc8a2d28f08a823d3ff82ac44418e4703c372",
+      "name" : "Highcharts",
+      "container" : "Highcharts.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    }
+  ]
+}

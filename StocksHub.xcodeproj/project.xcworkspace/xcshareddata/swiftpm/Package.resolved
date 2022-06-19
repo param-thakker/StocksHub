@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "highcharts-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/highcharts/highcharts-ios",
+      "state" : {
+        "revision" : "cc404e6843386c796f6d3ec898562103ad25e56b",
+        "version" : "10.0.0"
+      }
+    },
+    {
+      "identity" : "sheetkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fatbobman/SheetKit",
+      "state" : {
+        "revision" : "daadabc0f142e2e96a210d19c436b8e2c4bdeb46",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "simpletoast",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sanzaru/SimpleToast",
+      "state" : {
+        "revision" : "1bc531af60fc0a1494fdc02a52f03662aa9a183a",
+        "version" : "0.6.2"
+      }
+    },
+    {
+      "identity" : "toastswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/huynguyencong/ToastSwiftUI.git",
+      "state" : {
+        "revision" : "fc621e168dd8b308a1a4a6ea3bf6a85716d3d361",
+        "version" : "0.3.4"
+      }
+    }
+  ],
+  "version" : 2
+}
